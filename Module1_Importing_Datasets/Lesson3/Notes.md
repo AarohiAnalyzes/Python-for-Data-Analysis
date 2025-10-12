@@ -38,7 +38,7 @@ print(iris_df.head())        # Prints first 5 rows
 print(iris_df.head(10))      # Prints first 10 rows
 print(iris_df.tail())        # Prints last 5 rows
 ```
-⚠️ Avoid using print(iris_df) for large datasets — it prints the entire file.
+⚠️ Avoid using print(df) for large datasets — it prints the entire file, which is not recommended.
 
 ---
 
