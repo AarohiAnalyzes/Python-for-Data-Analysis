@@ -8,7 +8,7 @@ Notes, exercises, and code for the Python for Data Analysis course on Coursera
 
 - Each **Module folder** contains multiple **Lesson folders**.  
 - Inside each lesson:  
-  - `Notes.md` → Your summarized notes  
+  - `Notes.md` → My summarized notes  
   - `Code.ipynb` → Code exercises or examples  
 
 ---
