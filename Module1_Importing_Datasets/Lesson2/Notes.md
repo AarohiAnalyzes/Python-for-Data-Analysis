@@ -1,8 +1,8 @@
-# Lesson 2: Python Packages for Data Science
+# 🐍 Lesson 2: Python Packages for Data Science
 
-## Key Concepts
+## 🧠 Key Concepts
 
-### What is a Python Library?
+### 📚 What is a Python Library?
 
 - **Definition:**  
   A **Python library** is a collection of functions, methods, and modules that let you perform specific tasks without writing code from scratch.  
@@ -11,13 +11,13 @@
 
 ---
 
-### Categories of Python Libraries for Data Science
+### 🗂️ Categories of Python Libraries for Data Science
 
 Python data analysis libraries are generally divided into **three main groups**:
 
 ---
 
-### 1. **Scientific Computing Libraries**
+### ⚙️ 1. Scientific Computing Libraries
 Used for mathematical computations, numerical analysis, and data manipulation.
 
 | Library | Description |
@@ -28,7 +28,7 @@ Used for mathematical computations, numerical analysis, and data manipulation.
 
 ---
 
-### 2. **Data Visualization Libraries**
+### 📊 2. Data Visualization Libraries
 Used to create charts, plots, and graphical representations of data.
 
 | Library | Description |
@@ -38,7 +38,7 @@ Used to create charts, plots, and graphical representations of data.
 
 ---
 
-### 3. **Algorithmic / Machine Learning Libraries**
+### 🤖 3. Algorithmic / Machine Learning Libraries
 Used for statistical modeling and machine learning algorithms.
 
 | Library | Description |
@@ -48,10 +48,7 @@ Used for statistical modeling and machine learning algorithms.
 
 ---
 
-**Summary**
+## ✅ Summary
 - Python libraries help perform complex data tasks efficiently.  
 - Libraries can be grouped into **scientific computing**, **data visualization**, and **algorithmic (ML/statistical)** categories.  
-- Mastering these libraries is fundamental for data science and analytics.
-
-
-
+- Mastering these libraries is fundamental for **data science and analytics**.  
