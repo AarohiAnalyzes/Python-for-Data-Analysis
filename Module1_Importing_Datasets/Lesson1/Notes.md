@@ -1,8 +1,8 @@
-# Lesson 1: Understanding the Data
+# 📘 Lesson 1: Understanding the Data
 
-## Key Concepts
+## 🧠 Key Concepts
 
-### Types of Datasets
+### 🗂️ Types of Datasets
 
 #### 1. **Structured Data**
 - **Definition:** Data organized in rows and columns; easy to store, search, and analyze using SQL.  
@@ -21,7 +21,7 @@
 
 ---
 
-### Columns, Rows, and Data Types
+### 📊 Columns, Rows, and Data Types
 - **Columns:** Represent *attributes* or *features* (e.g., `Name`, `Age`, `Salary`)  
 - **Rows:** Represent *records* or *instances* (each individual data entry)  
 - **Data Types:**  
@@ -32,20 +32,16 @@
 
 ---
 
-### Features, Predictors, and Target Variables
-
+### 🎯 Features, Predictors, and Target Variables
 - **Features:** Independent variables or inputs used to make predictions.  
   - Example: `age`, `income`, `education_level`  
-
 - **Predictors:** Another term for features — variables that help predict outcomes.  
-
 - **Target Variable:** The output or dependent variable that the model tries to predict.  
   - Example: `will_purchase`, `disease_outcome`, `price`  
 
 ---
 
-**Summary**
+## ✅ Summary
 - Datasets come in structured, unstructured, and semi-structured forms.  
 - Data is stored in rows (records) and columns (attributes).  
-- Features (predictors) help determine the target variable in data analysis or machine learning.
-
+- Features (predictors) help determine the target variable in data analysis or machine learning.  
