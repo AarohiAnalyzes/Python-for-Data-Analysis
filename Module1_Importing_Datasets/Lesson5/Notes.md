@@ -106,7 +106,7 @@ conn.close()
 
 ## ✅ 7. Summary
 
-API: A way for Python to talk to databases
-DB-API: Python’s system for connecting to any SQL database
-SQLite: Easiest database to start with (no setup needed)
-Always:Connect, Execute, Fetch, Close
+- API: A way for Python to talk to databases
+- DB-API: Python’s system for connecting to any SQL database
+- SQLite: Easiest database to start with (no setup needed)
+- Always:Connect, Execute, Fetch, Close
