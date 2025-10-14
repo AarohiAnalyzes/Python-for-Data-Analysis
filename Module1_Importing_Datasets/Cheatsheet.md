@@ -1,4 +1,4 @@
-# 📊 Data Analysis with Python — Cheat Sheet: Importing Data Sets
+# Data Analysis with Python - Cheat Sheet: Importing Data Sets
 
 | **Task** | **Description** | **Code Example** |
 |-----------|-----------------|------------------|
