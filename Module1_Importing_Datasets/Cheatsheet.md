@@ -2,9 +2,7 @@
 
 | **Task** | **Description** | **Code Example** |
 |-----------|-----------------|------------------|
-| **Read CSV data set** | Read the CSV file containing a data set into a pandas DataFrame. | python
-df = pd.read_csv(<CSV_path>, header=None)  # load without header
-df = pd.read_csv(<CSV_path>, header=0)     # load using first row as header |
+| **Read CSV data set** | Read the CSV file containing a data set into a pandas DataFrame. | ```python<br>df = pd.read_csv(<CSV_path>, header=None)  # load without header<br>df = pd.read_csv(<CSV_path>, header=0)  # load using first row as header<br>``` |
 | **Print first few entries** | Print the first few entries (default 5) of the pandas DataFrame. | ```python<br>df.head(n)  # n = number of entries; default 5<br>``` |
 | **Print last few entries** | Print the last few entries (default 5) of the pandas DataFrame. | ```python<br>df.tail(n)  # n = number of entries; default 5<br>``` |
 | **Assign header names** | Assign appropriate header names to the DataFrame. | ```python<br>df.columns = headers<br>``` |
