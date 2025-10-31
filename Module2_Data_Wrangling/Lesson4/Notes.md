@@ -79,10 +79,3 @@ df['length'] = (df['length'] - df['length'].mean()) / df['length'].std()
 
 ---
 
-## Summary Table
-
-| Method         | Formula                 | Range | Pandas Code                             |
-| -------------- | ----------------------- | ----- | --------------------------------------- |
-| Simple Scaling | x / x(max)              | 0 → 1 | df['col'] = df['col'] / df['col'].max() |
-| Min-Max        | (x - min) / (max - min) | 0 → 1 | df['col'] =                             |
-
